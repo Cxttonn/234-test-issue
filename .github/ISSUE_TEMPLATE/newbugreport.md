@@ -2,7 +2,8 @@
 name: Bug Report
 description: File a bug report
 title: " [Bug] "
-labels: ["octo-org/1" , "octo-otg/44"]
+labels: ["bug" , "triage"]
+projects: ["octo-org/1" , "octo-otg/44"]
 assignees:
   - octocat
 body:
