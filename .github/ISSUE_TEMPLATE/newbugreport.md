@@ -25,7 +25,7 @@ body:
       placeholder: Tell us what you see?
       value: "A bug happened!"
     validations:
-    required: true
+      required: true
   - type: dropdown
     id: version
     attributes:
