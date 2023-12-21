@@ -16,7 +16,7 @@ body:
       description: How we can get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
-      required:false
+      required: false
   - type: textarea
     id: what-happened
     attributes:
@@ -25,7 +25,7 @@ body:
       placeholder: Tell us what you see?
       value: "A bug happened!"
     validations:
-    required: true
+      required: true
   - type: dropdown
     id: version
     attributes:
