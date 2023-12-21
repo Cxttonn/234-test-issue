@@ -16,7 +16,7 @@ body:
       description: How we can get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
